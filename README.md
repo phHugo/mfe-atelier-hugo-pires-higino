@@ -8,8 +8,8 @@ Ce projet est une application Micro Frontend (MFE) utilisant **Module Federation
 # 🚀 Installation & Exécution
 ### 1️⃣ **Cloner le dépôt**
 ```bash
-git clone https://github.com/votre-utilisateur/mfe-atelier-prenom-nom.git
-cd mfe-atelier-prenom-nom
+git clone https://github.com/phHugo/mfe-atelier-hugo-pires-higino.git
+cd mfe-atelier-hugo-pires-higino
 ```
 
 ### 2️⃣ **Installation des dépendances**
