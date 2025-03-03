@@ -1,6 +1,6 @@
 import React from 'react';
 import { createRoot } from 'react-dom/client';
-import Header from './header';
+import Header from './Header';
 
 const mount = () => {
   const container = document.getElementById('root');
